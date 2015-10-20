@@ -1,0 +1,6 @@
+c:\users\лулка\documents\visual studio 2012\Projects\Sorting\Sorting\bin\Debug\Sorting.exe.config
+C:\Users\Лулка\documents\visual studio 2012\Projects\Sorting\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+C:\Users\Лулка\documents\visual studio 2012\Projects\Sorting\Sorting\bin\Debug\Sorting.exe
+C:\Users\Лулка\documents\visual studio 2012\Projects\Sorting\Sorting\bin\Debug\Sorting.pdb
+C:\Users\Лулка\documents\visual studio 2012\Projects\Sorting\Sorting\obj\Debug\Sorting.exe
+C:\Users\Лулка\documents\visual studio 2012\Projects\Sorting\Sorting\obj\Debug\Sorting.pdb
